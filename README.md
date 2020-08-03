@@ -19,5 +19,12 @@
 <img align="left" alt="originalmattrandall | SQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="originalmattrandall | TERMINAL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
+
+---
+
+[![Matt Randall's github stats](https://github-readme-stats.vercel.app/api?username=originalmattrandall)](https://github.com/originalmattrandall/github-readme-stats)
+
+
 
 [linkedin]: https://www.linkedin.com/in/matt-randall/
