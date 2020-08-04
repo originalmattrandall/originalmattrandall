@@ -10,7 +10,9 @@
 [<img align="left" alt="originalmattrandall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 <br />
+
 ---
+
 ### Goals for end of 2020
 - [] Complete cs50 Introduction to Artificial Intelligence with python
 
