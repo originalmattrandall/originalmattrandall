@@ -1,7 +1,7 @@
-### Hi there, I'm Matt Randall.
+### Hi there, I'm Matthew Randall.
 
 ## What im up to
-- Focusing on completely 1 course every year
+- Focusing on completeing 1 dvelopment course every year
 - Building a fitness app using flutter
 - Working on getting my personal site online
 
@@ -15,6 +15,7 @@
 
 ### Goals for end of 2020
 - [ ] Complete Harvards cs50 Introduction to Artificial Intelligence with python
+- [ ] Launch a personal website
 
 <br />
 
