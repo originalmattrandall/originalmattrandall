@@ -1,7 +1,7 @@
 ### Hi there, I'm Matthew Randall.
 
 ## What im up to
-- Focusing on completeing 1 dvelopment course every year
+- Focusing on completeing 1 development course every year
 - Building a fitness app using flutter
 - Working on getting my personal site online
 
