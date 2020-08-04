@@ -1,13 +1,17 @@
 ### Hi there, I'm Matt Randall.
 
 ## What im up to
-- Currently taking Harvards cs50 Introduction to Artificial Intelligence with Python
-- Building a fitness app using flutter 
+- Focusing on completely 1 course every year
+- Building a fitness app using flutter
 - Working on getting my personal portfolio site online
 
 ### Connect with me
 [<img align="left" alt="originalmattrandall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="originalmattrandall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+
+---
+### Goals for end of 2021
+[ ] Complete cs50 Introduction to Artificial Intelligence with python
 
 <br />
 
