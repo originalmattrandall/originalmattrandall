@@ -11,7 +11,7 @@
 
 <br />
 ---
-### Goals for end of 2021
+### Goals for end of 2020
 - [] Complete cs50 Introduction to Artificial Intelligence with python
 
 <br />
