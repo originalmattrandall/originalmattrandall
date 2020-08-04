@@ -14,7 +14,7 @@
 ---
 
 ### Goals for end of 2020
-- [] Complete cs50 Introduction to Artificial Intelligence with python
+- [ ] Complete cs50 Introduction to Artificial Intelligence with python
 
 <br />
 
