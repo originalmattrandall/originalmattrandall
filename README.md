@@ -7,6 +7,7 @@
 
 ### Connect with me
 [<img align="left" alt="originalmattrandall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="originalmattrandall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -32,3 +33,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/matt-randall/
+[instagram]: https://www.instagram.com/developer.matt/
