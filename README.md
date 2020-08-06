@@ -49,6 +49,10 @@
 
 <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=originalmattrandall&theme=radical" />
 
+<br/>
+
+<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=originalmattrandall&theme=radical" />
+
 
 
 [linkedin]: https://www.linkedin.com/in/matt-randall/
