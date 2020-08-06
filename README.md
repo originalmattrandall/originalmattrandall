@@ -45,6 +45,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=originalmattrandall&theme=radical)](https://github.com/originalmattrandall/github-readme-stats)
 
+<br />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+
 
 
 [linkedin]: https://www.linkedin.com/in/matt-randall/
