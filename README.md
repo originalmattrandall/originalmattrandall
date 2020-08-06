@@ -39,13 +39,13 @@
 
 ---
 
-[![Matt Randall's github stats](https://github-readme-stats.vercel.app/api?username=originalmattrandall&theme=radical)](https://github.com/originalmattrandall/github-readme-stats)
+<!-- [![Matt Randall's github stats](https://github-readme-stats.vercel.app/api?username=originalmattrandall&theme=radical)](https://github.com/originalmattrandall/github-readme-stats)
 
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=originalmattrandall&theme=radical)](https://github.com/originalmattrandall/github-readme-stats)
 
-<br />
+<br /> -->
 
 <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=originalmattrandall&theme=radical" />
 
