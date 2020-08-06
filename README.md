@@ -13,7 +13,7 @@
 
 ---
 
-### Goals for end of 2020
+### 2020 Development goals
 - [ ] Complete Harvards cs50 Introduction to Artificial Intelligence with python
 - [ ] Launch a personal website
 
@@ -40,6 +40,10 @@
 ---
 
 [![Matt Randall's github stats](https://github-readme-stats.vercel.app/api?username=originalmattrandall&theme=radical)](https://github.com/originalmattrandall/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=originalmattrandall)](https://github.com/originalmattrandall/github-readme-stats)
 
 
 
