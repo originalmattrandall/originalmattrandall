@@ -13,7 +13,7 @@
 
 ---
 
-### 2020 Development goals
+### 2021 Development goals
 - [ ] Complete Harvards cs50 Introduction to Artificial Intelligence with python
 - [ ] Launch a personal website
 
