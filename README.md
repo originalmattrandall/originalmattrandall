@@ -43,7 +43,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=originalmattrandall&theme=radical&count_private=true)](https://github.com/originalmattrandall/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=originalmattrandall&theme=radical)](https://github.com/originalmattrandall/github-readme-stats)
 
 
 
