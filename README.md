@@ -39,7 +39,7 @@
 
 ---
 
-[![Matt Randall's github stats](https://github-readme-stats.vercel.app/api?username=originalmattrandall&theme=radical)](https://github.com/originalmattrandall/github-readme-stats)
+[![Matt Randall's github stats](https://github-readme-stats.vercel.app/api?username=originalmattrandall&theme=radical&count_private=true)](https://github.com/originalmattrandall/github-readme-stats)
 
 <br />
 
