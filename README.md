@@ -1,10 +1,5 @@
 ### Hi there, I'm Matthew Randall.
 
-## What im up to
-- Focusing on completeing 1 development course every year
-- Building a fitness app using flutter
-- Working on getting my personal site online
-
 ### Connect with me
 [<img align="left" alt="originalmattrandall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="originalmattrandall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
